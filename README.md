@@ -42,7 +42,7 @@ A simple yet powerful Python-based grading system for evaluating student marks a
 
 ---
 
-📦 Requirements
+##📦 Requirements
 
 No external libraries are required.
 Runs on Python 3.x.
@@ -50,7 +50,7 @@ Runs on Python 3.x.
 
 ---
 
-🧩 Example Output
+##🧩 Example Output
 
 Enter number of students: 2
 Enter number of subjects: 3
@@ -63,7 +63,7 @@ Enter marks for Math: 95
 Enter marks for Science: 88
 Enter marks for Programming: 90
 
-📝 Student Report Card
+##📝 Student Report Card
 ------------------------------------------------------------
 Name           Total     Average   Grade     
 ------------------------------------------------------------
@@ -74,7 +74,7 @@ Samuel         273.00    91.00     A+
 
 ---
 
-👨‍💻 Author
+## 🙋‍♂️ Author
 
-Samuel Dagne
-Software Developer | Data Analyst
+Samuel Dagne  
+🌍 [samueldagne.bio](https://samueldagne.bio) | 💼 [LinkedIn](https://linkedin.com/in/samuel-dagne-230589262) | 🐦 [@prof_sd567](https://x.com/prof_sd567)
